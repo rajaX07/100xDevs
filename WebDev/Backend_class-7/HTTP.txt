@@ -1,0 +1,29 @@
+Only theory/Intro about HTTP Part 1 inclues:
+
+Do visit notes of HTTP at 100xschool.
+HTTP is request and response model
+
+Request and Response:
+
+Request:-
+
+Domain
+IPs
+Route
+Methods
+Body
+
+Request Headers
+Query Params
+Path Params
+
+
+Response:-
+
+Payload:html/plaintext/json
+Staus code
+
+Response Headers
+
+
+
